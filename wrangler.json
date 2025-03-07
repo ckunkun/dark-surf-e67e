@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "dark-surf-e67e",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "18172076-0480-4d23-b3bd-056991e9b8a3",
+      "database_name": "dark-surf-e67e-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
